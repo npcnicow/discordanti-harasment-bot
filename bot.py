@@ -25,4 +25,5 @@ async def on_message(message):
     print(harcelement)
     if harcelement == 1:
         print("detection de harcelement")
+#replace the bot tocken with the actual tocken
 client.run("discord token")
